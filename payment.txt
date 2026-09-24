@@ -1,2 +1,1 @@
 "temporary change" 
-"This is a bad change" 
